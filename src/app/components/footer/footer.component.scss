@@ -1,0 +1,20 @@
+footer{
+    background-image: linear-gradient(to bottom right, rgb(201, 22, 201), rgb(44, 44, 206)) ;
+    padding: 20px;
+}
+
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoPhoto{
+    max-width: 100px;
+}
+
+.textInfo{
+    font-family: Helvetica;
+    color: white;
+    flex-basis: 33%;
+    text-align: center;
+}

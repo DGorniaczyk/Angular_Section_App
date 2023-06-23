@@ -1,0 +1,23 @@
+.welcomeContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(/assets/header_background.jpg);
+    background-size: cover;
+    height: 60vh;
+}
+
+.titleHeader{
+    font-size: 3em;
+    color: white;
+}
+
+.showMore{
+    background-color: #4CAF50; 
+    color: white; 
+    border: none; 
+    font-size: 1.5em; 
+    margin-top: 20px;
+    padding: 10px 20px;
+}
